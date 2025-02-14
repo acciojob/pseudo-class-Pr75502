@@ -1,7 +1,9 @@
 /*  your css code here. If applicable */
-#container *{
+#container {
 	margin:20px;
-	display:inline;
+	*{
+		display:inline;
+	}
 }
 
 	
